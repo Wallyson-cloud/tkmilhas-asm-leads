@@ -12,3 +12,4 @@
 - O formulário só armazena dados após consentimento. Ajuste o texto e a política de privacidade conforme a organização.
 - O painel é protegido por token e destina-se a uso interno. Para uso continuado, recomenda-se autenticação por usuário e controles de acesso mais completos.
 - Não existe hospedagem nem banco de dados configurados automaticamente pelo pacote.
+Atualização de publicação
